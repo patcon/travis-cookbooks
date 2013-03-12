@@ -6,7 +6,7 @@ site 'http://community.opscode.com/api/v1'
 # common
 cookbook 'ant'
 #cookbook 'apt'
-#cookbook 'build-essential'
+cookbook 'build-essential'
 #cookbook 'emacs'
 #cookbook 'git'
 #cookbook 'iptables'
