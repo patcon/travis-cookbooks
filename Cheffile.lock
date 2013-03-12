@@ -1,0 +1,16 @@
+SITE
+  remote: http://community.opscode.com/api/v1
+  specs:
+    ant (1.0.0)
+      ark (>= 0.0.0)
+      java (>= 0.0.0)
+    ark (0.1.0)
+    chef_handler (1.1.4)
+    java (1.10.0)
+      windows (>= 0.0.0)
+    windows (1.8.4)
+      chef_handler (>= 0.0.0)
+
+DEPENDENCIES
+  ant (>= 0)
+
