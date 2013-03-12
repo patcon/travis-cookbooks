@@ -11,7 +11,7 @@ cookbook 'emacs'
 cookbook 'git'
 #cookbook 'iptables'
 #cookbook 'java'
-#cookbook 'vim'
+cookbook 'vim'
 
 # ci_environment
 #cookbook 'erlang'

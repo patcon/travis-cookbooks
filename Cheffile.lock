@@ -19,6 +19,7 @@ SITE
       windows (>= 0.0.0)
     runit (1.1.0)
       build-essential (>= 0.0.0)
+    vim (1.0.2)
     windows (1.8.4)
       chef_handler (>= 0.0.0)
     yum (2.1.0)
@@ -28,4 +29,5 @@ DEPENDENCIES
   build-essential (>= 0)
   emacs (>= 0)
   git (>= 0)
+  vim (>= 0)
 
